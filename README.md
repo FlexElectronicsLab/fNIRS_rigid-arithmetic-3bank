@@ -27,6 +27,6 @@ Participants 6-10:
 Datasets are available as:
 - RAW - raw ADC values
 - CSV - data converted to deoxygenated hemoglobin (Hbb) and oxygenated hemoglobin (HbO) labelled with activity (_math2_ - 2-digit math, _math3_ - 3-digit math, _resting_, and _baseline_) 
-- sMIRF - coming soon
+- SMIRF - coming soon
 
-- Data is available under 
+© 2026 Flexible Electronic Lab. This work is licensed under a CC BY-NC 4.0 International License. If you use this data, please cite it as https://doi.org/10.3390/bios15020092.
